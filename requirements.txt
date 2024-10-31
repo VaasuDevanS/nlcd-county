@@ -1,0 +1,5 @@
+streamlit==1.39.0
+watchdog==5.0.3
+rasterio==1.4.2
+geopandas==1.0.1
+imageio==2.36.0
